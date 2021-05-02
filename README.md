@@ -49,10 +49,13 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 * The project was developed from a starter packege provided on the assignment description page.
 * Basic considerations were as follows:
-    * Following packages were used: 
-    * Application's folder structure follows MVC paradigm
+    * In this assignment, I've refactored the REST APIs to use GraphQL on the back end and added relevant functionality to the frontend  
+    * I've removed the files/folders that were not relevant to the project anymore (e.g. backend controllers and routes folders)
+    * Apollo server was implemented and applied as a middleware to Express server
+    * Schemas were defined as instructed in the assignment
+    * The existing authentication middleware was modified to work in the context of a GraphQL API
+    * Apollo Provider was used so that the application can communicate with the Apollo Server
     * Application was deployed to Heroku
-    * I added features so that if the user is logged in, then he/she can delete his/her own comments from any post 
 
 ### Demo Run
 ![Demo Run](./assets/images/assignment21_demo.gif)
