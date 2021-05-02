@@ -58,7 +58,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
     * Application was deployed to Heroku
 
 ### Demo Run
-![Demo Run](./assets/images/assignment21_demo.gif)
+![Demo Run](./client/src/assets/images/assignment21_demo.gif)
 
 ### Link of Deployed Application
 [Heroku App Link](https://assignment21-book-search-engine.herokuapp.com/)
