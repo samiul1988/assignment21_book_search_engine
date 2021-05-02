@@ -61,4 +61,4 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ![Demo Run](./client/src/assets/images/assignment21_demo.gif)
 
 ### Link of Deployed Application
-[Heroku App Link](https://assignment21-book-search-engine.herokuapp.com/)
+[Heroku App Link](https://assignment21-search-engine.herokuapp.com/)
